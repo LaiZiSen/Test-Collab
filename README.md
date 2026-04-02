@@ -1,6 +1,5 @@
 # Parking Pass system project
-1
-2
+
 Description
 -------------------
 1. Reference docs: https://docs.google.com/document/d/1D59fzwRLq1DTPpcYgdn-EVpa_uCQtdYn3rj3zrN0__0
